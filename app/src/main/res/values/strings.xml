@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="title_q_1">Question 1</string>
+    <string name="content_q_1">In C, sizes of an integer and a pointer must be same</string>
+    <string name="option_q_1_1">True</string>
+    <string name="option_q_1_2">False</string>
+    <string name="title_q_2">Question 2</string>
+    <string name="content_q_2">Which of the following is not a storage class specifier in C?? </string>
+    <string name="option_q_2_1">auto</string>
+    <string name="option_q_2_2">register</string>
+    <string name="option_q_2_3">volatile</string>
+    <string name="title_q_3">Question 3</string>
+    <string name="content_q_3">In C, static storage class cannot be used with</string>
+    <string name="option_q_3_1">Global variable</string>
+    <string name="option_q_3_2">Function parameter</string>
+    <string name="option_q_3_3">Local variable</string>
+    <string name="title_q_4">Question 4</string>
+    <string name="content_q_4">What is the parent company for google?</string>
+    <string name="title_q_5">Question 5</string>
+    <string name="content_q_5">Which of the following is/are valid declarations in C??</string>
+    <string name="option_q_5_1">short int x;</string>
+    <string name="option_q_5_2">signed short x;</string>
+    <string name="option_q_5_3">short x;</string>
+    <string name="option_q_5_4">unsigned short x;</string>
+    <string name="your_score_is">Your Score is</string>
+    <string name="make_sure_answer_questions">Please make sure you answer all the questions</string>
+</resources>
+
